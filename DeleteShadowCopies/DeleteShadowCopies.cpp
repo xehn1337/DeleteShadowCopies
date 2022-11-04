@@ -1,5 +1,5 @@
 /*
-						LUCID@XEHN1337 04.11.2022
+						Lucid@xehn1337 04.11.2022
 
 	- Program that delete shadow copies without the need of using wmic / vssadmin
 	- Tested on w10 v 10.0.19044 x64 machine
